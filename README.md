@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joydeb Roy</h1>
-<h3 align="center">____0-0____</h3>
+<h3 align="center">____-0 _-0____</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingninja&label=Profile%20views&color=0e75b6&style=flat" alt="codingninja" /> </p>
 
